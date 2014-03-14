@@ -1,0 +1,38 @@
+HTML
+
+1. What does "semantic markup" mean?
+
+Semantic markup is a web standard that encourages naming HTML tags that represent their meaning; e.g., so instead of using <i> for italics, we say <em>, which underscores the meaning 'emphasis'. Other examples of semantic markup include <form>, <table>, and <img>. The former names clearly express the meaning of their content. On the flipside, <div> and <span> are not semantic because they could include anything.
+
+1. What does a doctype do?
+
+A doctype declaration tells the browser which HTML version the page is written in. Take note that the doctype is not an HTML tag, and it must be declared at the top of the page.
+
+3. Explain what standards and standards bodies are and why they are important.
+
+Standards and standards bodies like W3C define the best practices and technical specifications for building web pages. Examples of web standards include semantic markup, protocols like HTTP for exchanging information, and CSS for styling elements in the DOM.
+
+What are CSS3 and HTML5? How are they different from previous standards? Why is this important?
+CSS
+
+HTML5 is the most current form of HTML. It is more semantic than previous versions and provides persistent local storage of data in key/value pairs. This is great, because you don't need to use another computer language like javascript to persist data. 
+
+Likewise CSS3 is 
+
+
+What does a CSS reset do and why is it useful?
+What is the box model? Draw a picture and label the portions here.
+What is the difference between a relative, fixed, absolute, and statically positioned element? Feel free to draw pictures to explain your answer.
+What is SASS and why do people use it?
+Name one feature of SASS and explain why it is helpful.
+JS
+
+Explain prototypal inheritance.
+What is a closure and how/why would you use one?
+What is an anonymous function? Give a typical usecase for one.
+Describe the difference between
+function Person(){}
+var person = Person()
+var person = new Person()
+Explain hoisting.
+What is the difference between === and ==?
